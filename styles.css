@@ -1,4 +1,4 @@
-body {
+/* body {
   background-image: url("assets/codeHappy_webpageBackground.jpg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -10,7 +10,7 @@ body {
 }
 
 header {
-  /* border: 1px solid black; */
+  border: 1px solid black;
 }
 
 #main {
@@ -75,4 +75,4 @@ footer {
 
 #footer {
   margin-right: 10%;
-}
+} */
